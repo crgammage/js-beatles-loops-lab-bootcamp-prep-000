@@ -17,9 +17,10 @@ function johnLennonFacts(facts) {
   }
   return results;
 }
+
 function iLoveTheBeatles() {
   let i = 0;
-  do { return "I love the Beatles."
+  do { return "I love the Beatles!"
 i++;}
-while (i <15)
+while (i < 15)
 }
